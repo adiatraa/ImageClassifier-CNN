@@ -1,2 +1,2 @@
-[python]
-version = "3.11"
+[tool.streamlit]
+python_version = "3.12"
